@@ -1,4 +1,4 @@
-#Artificial_Intelligence
+# Artificial_Intelligence
 
 Project on Artificial Intelligence for the 2021-2022 course at NTUA ECE. All projects have been implemented using Python.
 

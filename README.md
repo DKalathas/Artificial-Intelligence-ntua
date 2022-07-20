@@ -18,4 +18,4 @@ We implemented the following machine learning classifiers: KNN, Naive Bayes, Mul
 
 Dimitris Kalathas, Dimitris Kalemis
 
-### All the assignments can be found in the folder of each lab. The assignments language is greek.
+### All the assignments can be found in the folder of programming. The assignments language is greek.
